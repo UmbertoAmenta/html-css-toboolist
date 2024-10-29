@@ -6,3 +6,34 @@
     margin: 0;
     padding: 0;
 }
+
+
+/* 
+    GENERAL
+*/
+body {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    background-color: #F6F8F9;
+}
+
+/*
+    HEADER
+*/
+header {
+    background-color: white;
+    padding: 20px 30px;
+}
+
+h1 {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 60px;
+}
+
+.logo {
+    vertical-align: middle;
+    height: 75px;
+    width: 75px;
+}
